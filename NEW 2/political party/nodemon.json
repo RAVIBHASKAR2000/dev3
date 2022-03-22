@@ -1,0 +1,6 @@
+{
+  "verbose": false,
+  "ignore": ["*.test.js", "app/*"],
+  "delay": "2500",
+  "exec": "yarn dev"
+}
